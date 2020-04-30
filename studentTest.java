@@ -24,6 +24,11 @@ class studentTest{
 
         s.update("john");
         System.out.println("updates user : "+ s.name);
+
+
+
+
+        stude
     }
 
 }
